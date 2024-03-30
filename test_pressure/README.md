@@ -25,9 +25,13 @@
 >* 每秒钟响应请求数 和 每秒钟传输数据量
 
 
-
 ## Webbench 使用
-图片后续再放
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_1" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_2" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_3" height="201"/> </div>
+看看参数
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_4" height="201"/> </div>
 
 ## 压测结果
-图片后续再放
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_5" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_6" height="201"/> </div>
