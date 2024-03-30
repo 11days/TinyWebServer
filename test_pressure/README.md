@@ -26,12 +26,12 @@
 
 
 ## Webbench 使用
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_1" height="201"/> </div>
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_2" height="201"/> </div>
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_3" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_1.png" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_2.png" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_3.png" height="201"/> </div>
 看看参数
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_4" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_4.png" height="201"/> </div>
 
 ## 压测结果
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_5" height="201"/> </div>
-<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_6" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_5.png" height="201"/> </div>
+<div align=center><img src="https://github.com/11days/TinyWebServer/tree/master/root/pressure_6.png" height="201"/> </div>
