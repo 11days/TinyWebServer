@@ -17,3 +17,7 @@ VMware--Ubuntu下vscode重写了一遍，然后上传到Github
 > * <a href="https://cppreference.blog.csdn.net/article/details/136431359" target="_blank">架构图&&面试题（上）</a>
 > * <a href="https://cppreference.blog.csdn.net/article/details/136673143" target="_blank">面试题（下）</a>
 > * <a href="https://cppreference.blog.csdn.net/article/details/136711667" target="_blank">八股（终章）</a>
+
+<h2>前言</h2>
+一开始，考虑到之前CSDN博客的很多代码，都是在源码基础上，加了非常详细的注释，所以我在重写大部分接口时，直接将博客中代码复制过去，结果漏了六七个成员变量，导致sh ./build.sh 时，出现了14个报错，类似 class has no member named...
+所以，为了节省时间，大部分接口只好复制源码，只有 threadpool.h, http_conn.cpp 保留了注释版本的代码
